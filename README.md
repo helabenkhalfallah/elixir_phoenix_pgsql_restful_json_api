@@ -1,2 +1,3 @@
-# elixir_phoenix_restful_json_api
-Elixir &amp; Phoenix to do a restful json api
+# elixir_phoenix_pgsql_restful_json_api
+Using Elixir, Phoenix, Ecto & postgresql to do a restful json api
+
